@@ -37,6 +37,6 @@ O painel foi estruturado com modelagem de dados e DAX em duas páginas: uma vis�
 ![Página 1](dashboardpag.1)
 
 ### Página 2 — Análise de Produto e Promoção
-![Página 2](dashboard.2)
+![Página 2](dashboardpag.2)
 
 ---
